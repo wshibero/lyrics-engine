@@ -10,6 +10,8 @@ pre{
 
 input[type='text']{
   width: 40%;
+  border: none;
+  border-bottom: black solid 2px;
 }
 
 input{
