@@ -39,7 +39,9 @@ export default function App() {
         />
         <input type="submit" value="submit" />
       </form>
-      <pre>{answer}</pre>
+      <div>
+        <pre>{answer}</pre>
+      </div>
     </main>
   );
 }
